@@ -11,3 +11,7 @@ To load GUI type
 git gui&
 
 & allow to use git bash in parallel with git gui
+
+
+---------------------------------
+FGFewrw
